@@ -1,0 +1,21 @@
+style_prompts: ['in the style of Vincent Van-Gogh',
+                'in the style of Claude Monet',
+                'in the style of Georges Seurat', 
+                'in the style of Paul Signac',
+                'in the style of Edvard Munch',
+                'in the style of Winslow Homer',
+                'in the style of John Singer Sargent',
+                'in the style of Edward Hopper',
+                'in the style of Paul Cézanne', 
+                'in the style of Berthe Morisot']
+
+reference_prompts: ['An oil painting',
+                    'An oil painting',
+                    'A Pointillism painting', 
+                    'A Pointillism painting',
+                    'A painting',
+                    'A watercolor painting',
+                    'A watercolor painting',
+                    'A watercolor painting',
+                    'An oil painting',
+                    'A painting']

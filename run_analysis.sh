@@ -1,0 +1,2 @@
+python extract_layers_statistics.py --series_name style_analysis_texture_rabbit --content_file content_texture_rabbit.yaml --style_file style_prompts_texture.yaml
+python grade_layers_jsd.py --series_name style_analysis_texture_rabbit
